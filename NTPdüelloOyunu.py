@@ -73,8 +73,10 @@ while(oyuncu1.health > 0 and oyuncu2.health > 0):
 if oyuncu1.health <= 0:
     print(f"{oyuncu1.name} adlı oyuncunun helvası yenecek.")
     print("Esselaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..")
+    print("GG")
     
 elif oyuncu2.health <= 0:
     print(f"{oyuncu2.name} iyi insandı.")
     print(f"{oyuncu2.name} adlı oyuncudan hiç beklenmezdi")
+    print("GG")
     
