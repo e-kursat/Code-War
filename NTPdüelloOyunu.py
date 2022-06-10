@@ -76,4 +76,4 @@ if oyuncu1.health <= 0:
     
 elif oyuncu2.health <= 0:
     print(f"{oyuncu2.name} iyi insandı.")
-    print(f"{oyuncu2.name} adlı oyuncudan hiç beklenmezdi")
+    
