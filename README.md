@@ -1,2 +1,3 @@
 # Code-War
-Kürşat Emre vs Mahmut Tuncer
+
+İki karakterin rastgele silahlarla rastgele hasar aldıkları bir konsol oyunu.
